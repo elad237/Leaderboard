@@ -34,7 +34,7 @@ Set it up localy.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/paulinagonzalezc/leaderboard/issues).
+Feel free to check the [issues page](https://github.com/elad237/Leaderboard/issues).
 
 ## Show your support
 
