@@ -1,0 +1,122 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: radial-gradient(circle, rgba(38, 49, 96, 1) 0%, rgba(20, 24, 68, 1) 100%);
+  border-width: 6px;
+  border-style: solid;
+  border-image: linear-gradient(to right, #743ad5, #d53a9d) 1;
+  margin: 40px 150px 20px 150px;
+  box-shadow: rgb(126, 0, 164) 0 4px 4px;
+}
+
+.page-title {
+  text-align: center;
+  margin: 40px;
+  color: #28a4dd;
+  font-size: 35px;
+}
+
+.two-columns-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  column-gap: 50px;
+  margin-bottom: 45px;
+}
+
+.column1-container {
+  min-width: 290px;
+  display: flex;
+  row-gap: 20px;
+  flex-direction: column;
+}
+
+.refresh-button,
+.submit-button {
+  height: 30px;
+  width: 70px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0 1px 4px;
+  cursor: pointer;
+  background-color: #52b2cf;
+  color: darkblue;
+  border: 1px solid #1fc9fc;
+}
+
+.refresh-button:hover,
+.submit-button:hover {
+  background-color: #743ad5;
+}
+
+.scores-title-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.recent-scores {
+  font-size: 25px;
+  color: #28a4dd;
+}
+
+.score-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.score {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid lightseagreen;
+  padding: 8px;
+  margin: 7px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  background: radial-gradient(circle, rgba(40, 164, 221, 1) 0%, rgba(44, 75, 155, 1) 100%);
+  transition: transform 0.2s;
+}
+
+.score:nth-child(even) {
+  background: radial-gradient(circle, rgba(153, 75, 199, 1) 0%, rgba(71, 44, 155, 1) 100%);
+}
+
+.score:hover {
+  transform: scale(1.05);
+}
+
+.column2-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  min-width: 290px;
+}
+
+.add-title {
+  font-size: 25px;
+  color: #28a4dd;
+}
+
+.name-input,
+.score-input {
+  height: 30px;
+  width: 280px;
+  padding: 5px;
+  font-family: 'Montserrat', sans-serif;
+  border: 1px solid #28a4dd;
+  border-radius: 4px;
+  font-size: 15px;
+  box-shadow: rgba(0, 217, 255, 0.953) 0 1px 4px;
+  background-color: #28a4dd;
+}
+
+.name-input::placeholder,
+.score-input::placeholder {
+  color: darkblue;
+}
+
+.button-wrap {
+  display: flex;
+  justify-content: end;
+}
