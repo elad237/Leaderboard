@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leaderboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  <script defer src="main.js"></script></head>
+  <body>
+    <h1 class="page-title">Leaderboard</h1>
+    <div class="two-columns-container">
+      <div class="column1-container">
+        <div class="scores-title-container">
+          <div class="recent-scores">Recent Scores</div>
+          <button class="refresh-button" id="refresh">Refresh</button>
+        </div>
+        <div class="scores-table" id="scores-table"></div>
+      </div>
+      <div class="column2-container">
+        <div class="add-title">Add your score</div>
+        <form action="">
+          <input
+            required
+            type="text"
+            class="name-input"
+            placeholder="Your name"
+            id="name"
+          /><br /><br />
+          <input
+            required
+            type="text"
+            class="score-input"
+            placeholder="Your score"
+            id="score"
+          /><br /><br />
+          <div class="button-wrap">
+            <button
+              type="submit"
+              class="submit-button"
+              value="Submit"
+              id="add-score"
+            >
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
