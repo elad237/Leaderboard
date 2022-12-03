@@ -117,35 +117,35 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started 
+To get a local copy up and running follow these simple example steps.
+
+Clone the project using git clone or just copy the command below:
+ git clone https://github.com/elad237/Leaderboard.git
+Open the project with Visual Studio Code
+
+Run npm install to get the dependencies
+
+not sure how to use npm? Read this.
+
+Run the webpack server using this command:
+
+ npm start
+not sure how to use npm? Read this.
 
 To get a local copy up and running:
 Go to my githuh repo Leaderboard  and copy the link of the code
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-launch your code editor and open a new terminal  and type in git clone and paste the report to your local machine
- -->
+Having VsCode installed and configured.
+Having Git installed and configured.
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone the repository.
+Open the project folder in VS Code.
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-Clone the repo
-git clone https://github.com/elad237/Leaderboard.git
-Set it up localy.
-```
---->
 
 ### Install
 
@@ -199,9 +199,6 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
 
 👤 **TUMBU BARTHOLOMEW ELAD**
 GitHub: [@githubhandle](https://github.com/elad237)
