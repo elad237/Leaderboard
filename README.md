@@ -254,8 +254,6 @@ I would like to thank my wife Foven Marina and Mr Armstong Esegemu for all their
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
-
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
