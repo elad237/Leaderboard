@@ -180,14 +180,6 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -252,10 +244,6 @@ I would like to thank my wife Foven Marina and Mr Armstong Esegemu for all their
   - [open the Leaderboard repo copy the link of the code and clone on your local machine]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
