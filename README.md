@@ -27,8 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Fpathrise-splash-prod.herokuapp.com%2Fguides%2Fa-review-of-microverse-as-a-coding-bootcamp%2F&psig=AOvVaw0JJHhEHGu0QfvpGNwU7HkT&ust=1670423478702000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCR5cWa5fsCFQAAAAAdAAAAABAJ" alt="logo" width="140"  height="auto" />
 
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+![](https://img.shields.io/badge/elad237-green)
 
 </div>
 
