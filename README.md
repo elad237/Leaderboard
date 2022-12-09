@@ -1,36 +1,5 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Fpathrise-splash-prod.herokuapp.com%2Fguides%2Fa-review-of-microverse-as-a-coding-bootcamp%2F&psig=AOvVaw0JJHhEHGu0QfvpGNwU7HkT&ust=1670423478702000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCR5cWa5fsCFQAAAAAdAAAAABAJ" alt="logo" width="140"  height="auto" />
-
-  <br/>
 ![](https://img.shields.io/badge/elad237-green)
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -155,25 +124,9 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
