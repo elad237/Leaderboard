@@ -1,4 +1,11 @@
 
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
 ![](https://img.shields.io/badge/elad237-green)
 <!-- TABLE OF CONTENTS -->
 
